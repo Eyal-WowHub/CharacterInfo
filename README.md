@@ -2,7 +2,7 @@
 
 A library that provides character and realm information.
 
-#### Dependencies: [LibStub](https://www.curseforge.com/wow/addons/libstub), [Contracts](https://github.com/eyal-wow-addons/Contracts)
+#### Dependencies: [LibStub](https://www.curseforge.com/wow/addons/libstub), [Contracts](https://github.com/Eyal-WowHub/Contracts)
 
 ### Example:
 
