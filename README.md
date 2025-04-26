@@ -4,6 +4,8 @@ A library that provides character and realm information.
 
 #### Dependencies: [LibStub](https://www.curseforge.com/wow/addons/libstub), [Contracts](https://github.com/Eyal-WowHub/Contracts)
 
+#### Used By: [WowInfo](https://github.com/Eyal-WowHub/WowInfo)
+
 ### Example:
 
 ```lua
